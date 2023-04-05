@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseEmailLoginApp</string>
+    <string name="logged_in_user">logged in user: No!</string>
+    <string name="register">Register</string>
+    <string name="login">login</string>
+    <string name="mail">mail</string>
+</resources>
